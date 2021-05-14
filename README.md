@@ -3,6 +3,8 @@
 ## Grammar
 - [Adverbs of frecuency](https://www.perfect-english-grammar.com/adverbs-of-frequency.html)
 
+## Pronunciation
+- [Linguee](https://www.linguee.com/english-spanish/)
 
 ## Interview Questions
 - [Interview questions and answers](https://www.themuse.com/advice/interview-questions-and-answers)
